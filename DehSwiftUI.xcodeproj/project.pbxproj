@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6066256C29463C1B00A50103 /* BeginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6066256B29463C1B00A50103 /* BeginView.swift */; };
+		6066256D29463C1B00A50103 /* BeginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6066256B29463C1B00A50103 /* BeginView.swift */; };
+		6066256E29463C1B00A50103 /* BeginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6066256B29463C1B00A50103 /* BeginView.swift */; };
+		6066256F29463C1B00A50103 /* BeginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6066256B29463C1B00A50103 /* BeginView.swift */; };
+		6066257029463C1B00A50103 /* BeginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6066256B29463C1B00A50103 /* BeginView.swift */; };
+		6066257129463C1B00A50103 /* BeginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6066256B29463C1B00A50103 /* BeginView.swift */; };
 		7332DCC92758D5C500E0C19A /* MD5Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 592AFD8E2583499300E623A8 /* MD5Extension.swift */; };
 		7332DCCA2758D5C500E0C19A /* XOIModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5961A0C425776F550022CD72 /* XOIModel.swift */; };
 		7332DCCB2758D5C500E0C19A /* testfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5961A0CF2577CAF60022CD72 /* testfile.swift */; };
@@ -472,6 +478,7 @@
 		59CE6C0F2578D32100553EBA /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		59CE6C142578E38200553EBA /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		59FF3DBF259ABCC10011EAF7 /* NetworkConnector.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkConnector.swift; sourceTree = "<group>"; };
+		6066256B29463C1B00A50103 /* BeginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeginView.swift; sourceTree = "<group>"; };
 		7307A3D027182B1300E37E29 /* GroupListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupListView.swift; sourceTree = "<group>"; };
 		731FF18C27188874006F214B /* GroupSearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupSearchView.swift; sourceTree = "<group>"; };
 		7332DCC42758D57600E0C19A /* DehSwiftUI copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "DehSwiftUI copy-Info.plist"; path = "/Users/chenjiaxiang/Dropbox/Mac (2)/Desktop/DEH/DehSwiftUI/DehSwiftUI copy-Info.plist"; sourceTree = "<absolute>"; };
@@ -722,6 +729,7 @@
 				73A77E92277995F70089555D /* PrizeManagement */,
 				73A77E932779969D0089555D /* Map */,
 				73A77E942779970D0089555D /* Game */,
+				6066256B29463C1B00A50103 /* BeginView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -1021,6 +1029,7 @@
 				7332DCD32758D5C500E0C19A /* MediaMulti.swift in Sources */,
 				7332DCD42758D5C500E0C19A /* GameMemberPointView.swift in Sources */,
 				7332DCD52758D5C500E0C19A /* AppDelegate.swift in Sources */,
+				6066256C29463C1B00A50103 /* BeginView.swift in Sources */,
 				7332DCD62758D5C500E0C19A /* GroupDetailView.swift in Sources */,
 				E18C67FD278C07C300223353 /* FilterView.swift in Sources */,
 				7332DCD72758D5C500E0C19A /* XOIViewModel.swift in Sources */,
@@ -1092,6 +1101,7 @@
 				7332DD202758D5C600E0C19A /* MediaMulti.swift in Sources */,
 				7332DD212758D5C600E0C19A /* GameMemberPointView.swift in Sources */,
 				7332DD222758D5C600E0C19A /* AppDelegate.swift in Sources */,
+				6066256F29463C1B00A50103 /* BeginView.swift in Sources */,
 				7332DD232758D5C600E0C19A /* GroupDetailView.swift in Sources */,
 				E18C67FE278C07C300223353 /* FilterView.swift in Sources */,
 				7332DD242758D5C600E0C19A /* XOIViewModel.swift in Sources */,
@@ -1163,6 +1173,7 @@
 				7332DD6D2758D62500E0C19A /* MediaMulti.swift in Sources */,
 				7332DD6E2758D62500E0C19A /* GameMemberPointView.swift in Sources */,
 				7332DD6F2758D62500E0C19A /* AppDelegate.swift in Sources */,
+				6066257029463C1B00A50103 /* BeginView.swift in Sources */,
 				7332DD702758D62500E0C19A /* GroupDetailView.swift in Sources */,
 				E18C67FF278C07C300223353 /* FilterView.swift in Sources */,
 				7332DD712758D62500E0C19A /* XOIViewModel.swift in Sources */,
@@ -1234,6 +1245,7 @@
 				7332DDBA2758D63400E0C19A /* MediaMulti.swift in Sources */,
 				7332DDBB2758D63400E0C19A /* GameMemberPointView.swift in Sources */,
 				7332DDBC2758D63400E0C19A /* AppDelegate.swift in Sources */,
+				6066257129463C1B00A50103 /* BeginView.swift in Sources */,
 				7332DDBD2758D63400E0C19A /* GroupDetailView.swift in Sources */,
 				E18C6800278C07C300223353 /* FilterView.swift in Sources */,
 				7332DDBE2758D63400E0C19A /* XOIViewModel.swift in Sources */,
@@ -1305,6 +1317,7 @@
 				7332DE072758D9C600E0C19A /* MediaMulti.swift in Sources */,
 				7332DE082758D9C600E0C19A /* GameMemberPointView.swift in Sources */,
 				7332DE092758D9C600E0C19A /* AppDelegate.swift in Sources */,
+				6066256D29463C1B00A50103 /* BeginView.swift in Sources */,
 				7332DE0A2758D9C600E0C19A /* GroupDetailView.swift in Sources */,
 				E18C6801278C07C300223353 /* FilterView.swift in Sources */,
 				7332DE0B2758D9C600E0C19A /* XOIViewModel.swift in Sources */,
@@ -1376,6 +1389,7 @@
 				E1EA94AB27B102580083118F /* MediaMulti.swift in Sources */,
 				E1EA94AC27B102580083118F /* GameMemberPointView.swift in Sources */,
 				E1EA94AD27B102580083118F /* AppDelegate.swift in Sources */,
+				6066256E29463C1B00A50103 /* BeginView.swift in Sources */,
 				E1EA94AE27B102580083118F /* GroupDetailView.swift in Sources */,
 				E1EA94AF27B102580083118F /* FilterView.swift in Sources */,
 				E1EA94B027B102580083118F /* XOIViewModel.swift in Sources */,

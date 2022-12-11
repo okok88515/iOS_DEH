@@ -29,6 +29,7 @@ let GroupGetMemberUrl:  String = "http://deh.csie.ncku.edu.tw:8080/api/v1/groups
 let GroupCreatUrl:      String = "http://deh.csie.ncku.edu.tw:8080/api/v1/groups/add"
 let GroupUpdateUrl:     String = "http://deh.csie.ncku.edu.tw:8080/api/v1/groups/update"
 let GroupGetListUrl:    String = "http://deh.csie.ncku.edu.tw:8080/api/v1/groups/groupList"
+let GroupGetAllListUrl: String = "http://deh.csie.ncku.edu.tw:8080/api/v1/groups/listAllGroups"
 let GroupGetUserGroupListUrl:    String = "http://deh.csie.ncku.edu.tw:8080/api/v1/groups/searchUserGroups"
 let addGroupCountUrl:   String = "http://deh.csie.ncku.edu.tw:8080/api/v1/groups/addGroupLog"
 //let addGroupCountUrl:   String = "http:/140.116.82.130:8080//groups/addGroupLog"
