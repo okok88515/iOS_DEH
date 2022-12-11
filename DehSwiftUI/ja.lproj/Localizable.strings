@@ -1,0 +1,121 @@
+/* 
+  Localizable.strings
+  DehSwiftUI
+
+  Created by 陳家庠 on 2021/10/9.
+  Copyright © 2021 mmlab. All rights reserved.
+*/
+
+"My Favorite" = "私のお気に入り";
+"HI " = "こんにちは ";
+"Searched Xois" = "近所のスポット/ルート/エリア";
+"Group Interests" = "グループ管理スポット/ルート/エリア";
+"My Xois" = "私のスポット/ルート/エリア";
+
+"Advanced Setting" = "詳細設定";
+"Advanced Search" = "高度な検索";
+"Search Distance" = "検索範囲";
+"Search Number" = "検索番号";
+"Account" = "ユーザ名";
+"Password" = "パスワード";
+"Login Success" = "登入成功";
+"Cancel" = "キャンセル";
+"Save" = "保存する";
+"logout" = "ログアウト";
+"Logout" = "ログアウト";
+"login" = "ログイン";
+"Login" = "ログイン";
+"Settings" = "設定";
+
+
+"Select Search XOIs" = "検索を選択してくださいスポット/ルート/エリア";
+"POI" = "スポット";
+"LOI" = "ルート";
+"AOI" = "エリア";
+"SOI" = "ストーリー";
+"error" = "エラー";
+"Group POI" = "グループ管理スポット";
+"Group LOI" = "グループ管理ルート";
+"Group AOI" = "グループ管理エリア";
+"Group SOI" = "グループ管理ストーリー";
+"Group My POI" = "マイグループ管理スポット";
+"Group My LOI" = "マイグループ管理ルート";
+"Group My AOI" = "マイグループ管理エリア";
+"Group My SOI" = "マイグループ管理ストーリー";
+"public" = "公衆";
+"private" = "私設";
+"Prize" = "価格";
+"Group" = "グループ";
+"OK" = "わかった";
+"Select more options" = "その他のオプションを選択";
+"Please login first" = "最初にログインしてください";
+"Group list" = "グループリスト";
+"Create a group" = "グループを作成する";
+"Group member" = "グループメンバー";
+"Invite member:" = "メンバーを招待する：";
+"Group info" = "グループ情報";
+"Create" = "作成";
+"Edit" = "編集";
+"Group information:" = "グループ情報：";
+"Group name:" = "グループ名：";
+"" = "問い合わせたいアトラクションのキーワードを入力してください";
+"Member" = "メンバー";
+"Leader" = "リーダー";
+"Join" = "加入";
+"Yes" = "はい";
+"No" = "ノー";
+"The group is not exist!" = "グループは存在しません！";
+"Can not send request for myself!" = "自分でリクエストを送信することはできません！";
+"Member is in this group!" = "メンバーはこのグループに属しています！";
+"Leader has invited the member!" = "リーダーがメンバーを招待しました！";
+"Member has allocated request" = "メンバーがリクエストを割り当てました";
+"Send request successfully!" = "リクエストを正常に送信してください！";
+"invite you to join" = "あなたを招待して";
+"Agree" = "同意";
+"Reject" = "拒絶";
+"Would you want to join " = "参加しますか ";
+"Account or Password is not correct" = "アカウントまたはパスワードが正しくありません";
+"update success!" = "更新の成功！";
+"Invite success!" = "成功を誘う！";
+"Already invite!" = "すでに招待してください！";
+"Prize List" = "価格表";
+"Go to the website" = "ウェブサイトに移動します";
+"Prize Item" = "価格項目";
+"Exchange" = "交換";
+"Prize Exchange" = "価格交換";
+"no message" = "メッセージなし";
+"Add to favorite" = "お気に入りに追加";
+"Guide to POI" = "このアトラクションに移動します";
+"Nickname" = "ニックネーム";
+"Do you have an account?" = "アカウントをお持ちですか？";
+"name" = "名前";
+"User login" = "ユーザーログイン";
+"nearby" =  "近所の";
+"favorite" = "本命";
+"group" = "グループ";
+"keyword search POI" = "キーワード検索POI";
+"mine" = "私の";
+"All" = "全て";
+"Expert's map" = "エキスパートマップ";
+"User's map" = "ユーザーマップ";
+"Docent's map" = "ガイドマップ";
+"Image" = "イメージ";
+"Audio" = "サウンド";
+"Video" = "ビデオ";
+"Historical Site, Buildings" = "古蹟、歷史建築、聚落";
+"Ruins" = "遺跡";
+"Antique" = "昔の物";
+"Cultural Landscape" = "文化景觀";
+"Natural Landscape" = "自然景觀";
+"Traditional Art" = "伝統的な工芸品";
+"Cultural Artifacts" = "習俗等に関する文物";
+"Necessities of Life" = "衣食住および日々の楽しみなど";
+"その他" = "其他";
+"please choose group" = "グループを選んでください";
+"No Data" = "データなし";
+"game does not start" = "ゲームが開始しない";
+"back" = "戻る";
+"filter" = "フィルター";
+"class"= "地圖類別";
+"media"= "媒體種類";
+"range"= "範疇";

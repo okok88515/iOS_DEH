@@ -1,0 +1,127 @@
+/* 
+  Localizable.strings
+  DehSwiftUI
+
+  Created by 陳家庠 on 2021/10/9.
+  Copyright © 2021 mmlab. All rights reserved.
+*/
+"My Favorite" = "我的最愛";
+"HI " = "您好 ";
+
+
+"Advanced Setting" = "進階設定";
+"Advanced Search" = "進階搜尋";
+"Search Distance" = "搜尋範圍";
+"Search Number" = "搜尋數量";
+"Account" = "帳號";
+"Password" = "密碼";
+"Login Success" = "登入成功";
+"Cancel" = "取消";
+"Save" = "保存";
+"logout" = "登出";
+"Logout" = "登出";
+"login" = "登入";
+"Login" = "登入";
+"Settings" = "設定";
+"error" = "錯誤";
+
+
+
+
+"Searched Xois" = "附近景點/景線/景區";
+"Group Interests" = "群組景點/景線/景區";
+"My Xois" = "我的景點/景線/景區";
+"Select Search XOIs" = "請選擇搜尋景點/景線/景區";
+"POI" = "景點";
+"LOI" = "景線";
+"AOI" = "景區";
+"SOI" = "主題故事";
+"Group POI" = "群組景點";
+"Group LOI" = "群組景線";
+"Group AOI" = "群組景區";
+"Group SOI" = "群組主題故事";
+"Group My POI" = "我的群組景點";
+"Group My LOI" = "我的群組景線";
+"Group My AOI" = "我的群組景區";
+"Group My SOI" = "我的群組主題故事";
+
+"What do you want to do?" = "你想讓我做什麼？";
+"History" = "紀錄";
+"Game" = "遊戲";
+"public" = "公開";
+"private" = "私有";
+
+"Prize" = "獎品兌換";
+"Group" = "群組管理";
+"OK" = "好";
+"Select more options" = "更多選項";
+"Please login first" = "請先登入";
+"Group list" = "群組清單";
+"Create a group" = "創建群組";
+"Group member" = "群組成員";
+"Invite member:" = "邀請成員";
+"Group info" = "群組資訊";
+"Create" = "創建";
+"Edit" = "編輯";
+"Group information:" = "群組資訊：";
+"Group name:" = "群組名稱：";
+"keyword search POI" = "輸入關鍵字搜尋景點";
+"Member" = "組員";
+"Leader" = "組長";
+"Join" = "加入";
+"Yes" = "是";
+"No" = "否";
+"The group is not exist!" = "群組不存在！";
+"Can not send request for myself!" = "無法為自己發送請求！";
+"Member is in this group!" = "您已在群組中！";
+"Leader has invited the member!" = "組長已邀請您了！";
+"Member has allocated request" = "您你申請加入了";
+"Send request successfully!" = "申請加入成功！";
+"invite you to join" = " 邀請你加入";
+"Agree" = "同意";
+"Reject" = "拒絕";
+"Would you want to join " = "是否想要加入 ";
+"Account or Password is not correct" = "帳號或密碼錯誤";
+"update success!" = "更新成功！";
+"Invite success!" = "邀請成功！";
+"Already invite!" = "已寄送邀請！";
+"Prize List" = "獎品列表";
+"Go to the website" = "前往網站";
+"Prize Item" = "獎品品項";
+"Exchange" = "兌換";
+"Prize Exchange" = "獎品兌換";
+"no message" = "沒有訊息";
+"Add to favorite" = "加入我的最愛";
+"Guide to POI" = "導航至此景點";
+"Nickname" = "暱稱";
+"Do you have an account?" = "您是否已有文史脈留帳號？";
+"name" = "姓名";
+"User login" = "使用者登入";
+"nearby" =  "附近";
+"favorite" = "最愛";
+"group" = "群組";
+"mine" = "我的";
+"All" = "全部";
+"Expert's map" = "專家地圖";
+"User's map" = "玩家地圖";
+"Docent's map" = "解說員地圖";
+"Image" = "照片";
+"Audio" = "聲音";
+"Video" = "影片";
+"Historical Site, Buildings" = "古蹟、歷史建築、聚落";
+"Ruins" = "遺址";
+"Antique" = "古物";
+"Cultural Landscape" = "文化景觀";
+"Natural Landscape" = "自然景觀";
+"Traditional Art" = "傳統藝術";
+"Cultural Artifacts" = "民俗及有關文物";
+"Necessities of Life" = "食衣住行育樂";
+"Others" = "其他";
+"please choose group" = "請選擇群組";
+"No Data" = "查無資料";
+"game does not start" = "遊戲尚未開始";
+"back" = "返回";
+"filter" = "篩選";
+"class"= "地圖類別";
+"media"= "媒體種類";
+"range"= "範疇";

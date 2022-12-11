@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "SettingStorage.init():SettingStorage.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "XOIs">
+            </PersistentString>
+            <PersistentString
+               value = "searchDistance">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LocationManager.getDistanceFromCurrentPlace(coordinate:):LocationManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "CLLocation(latitude: currentLatitude, longitude: currentlongitude).distance(from: CLLocation(latitude: latitude, longitude: longitude))">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Map.body.getter:Map.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "userLongitude">
+            </PersistentString>
+            <PersistentString
+               value = "userLatitude">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ResponseFormat.init(from:):ResponseFormat.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.XOIs">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in XOIDetail.getMedia():XOIDetail.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "media">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in TabViewElement.searchXOIs(action:):TabViewElement.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "values.value?.results">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in XOIDetail.body.getter:XOIDetail.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.medias">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #4 in closure #1 in Setting.body.getter:Setting.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.searchDistance">
+            </PersistentString>
+            <PersistentString
+               value = "loginState">
+            </PersistentString>
+            <PersistentString
+               value = "self.searchNumber">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in Game.getGameList():Game.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "groupList.isEmpty">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in DEHMapInner.body.getter:DEHMapInner.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "xois[0]">
+            </PersistentString>
+            <PersistentString
+               value = "locationManager.coordinateRegion">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LocationManager.updateLocation():LocationManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "locationStatus">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in TabViewElement.searchXOIs():TabViewElement.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "values.value?.results">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #3 in closure #1 in ContentView.body.getter:ContentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Locale.current.languageCode">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in DEHMap.searchXOIs(action:):DEHMap.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.settingStorage.XOIs[&quot;nearby&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in Setting.login():Setting.swift">
+      </ContextState>
+      <ContextState
+         contextName = "LocationManager.locationStatus.willset:LocationManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "coordinateRegion">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in closure #1 in XOIDetail.body.getter:XOIDetail.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in closure #1 in closure #1 in TabViewElement.body.getter:TabViewElement.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "group">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in DEHMap.body.getter:DEHMap.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "xoi.coordinate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "XOIDetail.getMedia():XOIDetail.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "xoi">
+            </PersistentString>
+            <PersistentString
+               value = "xoi.media_set">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in GroupList.getGroupList():GroupList.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "values.data?">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in Setting.body.getter:Setting.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.account">
+            </PersistentString>
+            <PersistentString
+               value = "loginState">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in GameHistoryView.getHistory():GameHistoryView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "isoFormatter.date(from:&quot;2021-02-04T17:40:00Z&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ContentView2.upload():TestAlamofirePeter.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "values.value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChestDetailView.insertAnswer(answer:correctness:):ChestDetailView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "locationManager.coordinateRegion">
+            </PersistentString>
+            <PersistentString
+               value = "String(describing: locationManager.coordinateRegion.center.latitude)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "XOIDetail.getViewerNumber():XOIDetail.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "xoi">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in ChestDetailView.imageButton(imageName:mediaType:):ChestDetailView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "typeToInt[mediaType]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChestDetailView.checkAnswer(_:):ChestDetailView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "answer">
+            </PersistentString>
+            <PersistentString
+               value = "self.chest.answer">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #3 in ChestDetailView.answerBoxSelector(_:_:):ChestDetailView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "geometry?.size.height ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in XOIDetail.getViewNumber():XOIDetail.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewNumbers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #3 in closure #1 in closure #1 in TabViewElement.body.getter:TabViewElement.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "settingStorage.XOIs[&quot;favorite&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "settingStorage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in closure #1 in GameMap.body.getter:GameMap.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "locationManager.getDistanceFromCurrentPlace(coordinate: chest.coordinate) &gt; Double(chest.discoverDistance)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
